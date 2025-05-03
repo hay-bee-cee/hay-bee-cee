@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hay-bee-cee
 - 👀 I’m interested in web development, A.I, V.R and everything programming.
-- 🌱 I’m currently learning web dev and OOP.
+- 🌱 I’m currently learning web dev.
 - 📫 How to reach me... facebook@Caleb Abraham
 - 😄 Pronouns: He
 - ⚡ Fun fact: PUSH, Keep Moving.
